@@ -8,7 +8,7 @@
 ·3.有着iplc，人少节点好的优质机场，每月最低9.9 https://jdycloud.xyz/auth/register?code=VatR
 ----------------------------------------------------------------------------
 ClashR教程
-SSR： https://github.com/HMBSbige/ShadowsocksR-Windows/releases
+#SSR： https://github.com/HMBSbige/ShadowsocksR-Windows/releases
 V2RayN: https://github.com/2dust/v2rayN/releases
 ClashR: https://github.com/BoyceLig/ClashR_for_Windows/releases
 Qv2ray： https://github.com/Qv2ray/Qv2ray/releases
