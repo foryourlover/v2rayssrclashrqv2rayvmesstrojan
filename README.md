@@ -1,6 +1,13 @@
 # -v2rayssrclashrqv2rayvmesstrojan
-手把手的教程，还有节点推荐
-摆上下载链接，应该会下载吧
+·机场推荐
+·1.有iplc专线，节点将近400+，高峰期依然稳定的快捷机场，每月最低9.9
+·https://suying555.net/auth/register?code=7kwY
+·2.有白嫖功能，V2ray+trojan支持，超120节点，另有iplc+cn2等多种节点，
+·跑满宽带不再是梦，全部节点支持Netflix！
+·如此体验夫复何求，点击快速进入 https://jisumax.com/#/register?code=6XZzSYEn
+·3.有着iplc，人少节点好的优质机场，每月最低9.9 https://jdycloud.xyz/auth/register?code=VatR
+----------------------------------------------------------------------------
+ClashR教程
 SSR： https://github.com/HMBSbige/ShadowsocksR-Windows/releases
 V2RayN: https://github.com/2dust/v2rayN/releases
 ClashR: https://github.com/BoyceLig/ClashR_for_Windows/releases
@@ -14,10 +21,3 @@ Trojan-QT5：https://github.com/charlieethan/Trojan-Qt5/releases
 ·回到左侧栏中的常规（也就是第一个）在底部最中间找到系统代理，选择开启
 ·然后就可以畅想互联网啦
 --------------------------------------------------------------------
-·机场推荐
-·1.有iplc专线，节点将近400+，高峰期依然稳定的快捷机场，每月最低9.9
-·https://suying555.net/auth/register?code=7kwY
-·2.有白嫖功能，V2ray+trojan支持，超120节点，另有iplc+cn2等多种节点，
-·跑满宽带不再是梦，全部节点支持Netflix！
-·如此体验夫复何求，点击快速进入 https://jisumax.com/#/register?code=6XZzSYEn
-·3.有着iplc，人少节点好的优质机场，每月最低9.9 https://jdycloud.xyz/auth/register?code=VatR
