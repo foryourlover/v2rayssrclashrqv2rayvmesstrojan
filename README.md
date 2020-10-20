@@ -27,7 +27,7 @@
   
   Trojan-QT5：https://github.com/charlieethan/Trojan-Qt5/releases
   
-  <h3 style="color yellow"> ·以上建议使用clashR和Qv2ray,Qv2ray自带教程</h3>
+  <h3 style="color:yellow"> ·以上建议使用clashR和Qv2ray,Qv2ray自带教程</h3>
   
   ·clashR教程部分开始
   
