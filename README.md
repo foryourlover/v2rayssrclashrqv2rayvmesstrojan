@@ -16,9 +16,8 @@
   
 ----------------------------------------------------------------------------
 
-  ClashR教程
-  
-  #SSR： https://github.com/HMBSbige/ShadowsocksR-Windows/releases
+<h2>下载链接</h2>
+  SSR： https://github.com/HMBSbige/ShadowsocksR-Windows/releases
   
   V2RayN: https://github.com/2dust/v2rayN/releases
   
@@ -28,8 +27,8 @@
   
   Trojan-QT5：https://github.com/charlieethan/Trojan-Qt5/releases
   
-  ·以上建议使用clashR和Qv2ray
-  --------------------------------------------------------------------
+  <h3 style="color yellow"> ·以上建议使用clashR和Qv2ray,Qv2ray自带教程</h3>
+  
   ·clashR教程部分开始
   
   ·下载之后找到Clash for Windows.exe右键管理员运行
